@@ -13,5 +13,8 @@ class MainActivity : AppCompatActivity() {
         val binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 //        binding.bean = DataBean("张三", 19, "男")
+        //第二个版本
+
+
     }
 }
